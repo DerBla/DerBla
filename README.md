@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer. DevOps Engineer.
 ------------------------------------
 
-Fulltime engineer with interest in design, and build computer programs. I focus on develop for desktop and web use identifying user needs, building programs/infrastructure, testing out new software, and making improvements. Always open to new technologies, everyday looking to be a better engineer/developer.
+Fulltime engineer with an interest in designing and building computer programs. I focus on developing for desktop and web use, identifying user needs, building programs/infrastructure, testing out new software, and making improvements. Always open to new technologies, every day looking to be a better engineer/developer.
 
 * 🌍  I'm based in Costa Rica
 * 🚀  I'm currently working on [Kyndryl](http://www.kyndryl.com/)
