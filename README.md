@@ -7,7 +7,7 @@ Software Developer. DevOps Engineer.
 Fulltime engineer with an interest in designing and building computer programs. I focus on developing for desktop and web use, identifying user needs, building programs/infrastructure, testing out new software and making improvements. Always open to new technologies, every day looking to be a better engineer/developer.
 
 * 🌍  I'm based in Costa Rica
-* 🚀  I'm currently working on [Kyndryl](http://www.kyndryl.com/)
+* 🚀  I'm currently working at [Kyndryl](http://www.kyndryl.com/)
 * 🤝  I'm open to collaborating on any opensource projects
 
 ### Skills
@@ -29,4 +29,6 @@ Fulltime engineer with an interest in designing and building computer programs. 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/DerBla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/derick-alejandro-blanco-diaz-6ab6a6136" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/DerBla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<!--- <a href="https://www.linkedin.com/in/derick-alejandro-blanco-diaz-6ab6a6136" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+-->
