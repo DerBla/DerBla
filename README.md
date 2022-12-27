@@ -29,6 +29,6 @@ Fulltime engineer with an interest in designing and building computer programs. 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/DerBla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.github.com/DerBla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a> 
 <!--- <a href="https://www.linkedin.com/in/derick-alejandro-blanco-diaz-6ab6a6136" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 -->
